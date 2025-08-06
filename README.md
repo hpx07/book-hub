@@ -1,4 +1,4 @@
-# 📚 BookHub & 📰 News Website Projects
+# 📚 BookHub
 
 ---
 
