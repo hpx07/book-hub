@@ -13,12 +13,3 @@ A modern **BookHub** website built with **Vite**, **TypeScript**, **Tailwind CSS
 
 ---
 
-### 📦 Installation
-
-Please follow these steps to run the project locally on your machine:
-
-#### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/bookhub.git
-cd bookhub
