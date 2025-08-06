@@ -13,3 +13,14 @@ A modern **BookHub** website built with **Vite**, **TypeScript**, **Tailwind CSS
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [View Live](https://hpx07-bookhub.netlify.app)
+
+---
+
+## 🙋 Author
+
+**GitHub:** [@hpx07](https://github.com/hpx07)  
+
+---
